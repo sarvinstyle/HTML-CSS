@@ -1,0 +1,45 @@
+p{
+    font-family: "Noto Nastaliq Urdu";
+    margin-top: 0;
+    margin-bottom: 0; 
+}
+.text-title{
+direction: rtl;
+font-size:18px ;
+font-weight: bold;
+width: 230px;
+line-height: 28px;
+margin-bottom: 5px;
+}
+.video-stats{ 
+color: rgb(97, 96, 96);
+font-size : 14px;
+margin-bottom: 20px;
+}
+.video-author{
+color: rgb(97, 96, 96);
+font-size : 14px;
+margin-bottom: 20px;
+}
+.video-description{
+direction: rtl;
+color: rgb(97, 96, 96);
+font-size: 14px;
+line-height: 22px;
+width: 230px;
+text-align: left;
+margin-bottom: 50px;
+}
+.offer{
+background-color:rgb(200, 0, 0) ;
+color :white;
+padding: 25px;
+font-size: 20px;
+text-align:center;
+}
+.shop-span{
+margin-left: 20px;
+}
+.shop-span:hover{
+text-decoration: underline;
+}
